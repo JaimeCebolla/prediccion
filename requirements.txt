@@ -1,5 +1,6 @@
-streamlit==1.26.0
+streamlit
 yfinance
+tensorflow==2.11.0
 numpy
 pandas
 scikit-learn
